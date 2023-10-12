@@ -10,7 +10,7 @@ The Real Estate Price Estimator is a Python application that helps you estimate 
 - Calculate the estimated price using the MAD for properties in your neighborhood.
 
 ## App's screenshot
-![img](https://github.com/acbouzas/Real-State-Price-Estimator/blob/main/images/app-screenshot.png_)
+![imgage](https://github.com/acbouzas/Real-State-Price-Estimator/blob/main/images/app-screenshot.png)
 
 
 ## Requirements
