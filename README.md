@@ -1,7 +1,7 @@
 # Real Estate Price Estimator
 
 ## Introduction
-The Real Estate Price Estimator is a Python application that helps you estimate the value of your apartment in the  *Buenos Aires* real estate market. This application uses a machine learning model to provide an estimate based on various property features, including the neighborhood, surface area, age, and number of rooms. Additionally, it calculates the price using the median absolute deviation (MAD) for properties in your selected neighborhood.
+The Real Estate Price Estimator is a Python application that helps you estimate the value of an apartment in the  *Buenos Aires* real estate market. This application uses a machine learning model to provide an estimate based on various property features, including the neighborhood, surface area, age, and number of rooms. Additionally, it calculates the price using the median absolute deviation (MAD) for properties in your selected neighborhood.
 
 ## Features
 - Select your property's neighborhood from a dropdown menu.
