@@ -150,7 +150,7 @@ header = st.container()
 selection = st.form(key='form1')
 
 with header:
-    st.markdown("<h1 style='text-align: center; color: black;'>Tasa el valor de tu Departamento</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center; color: white;'>Tasa el valor de tu Departamento</h1>", unsafe_allow_html=True)
 
     #st.title('Tasa el valor de tu Departamento')
     lottie_property = load_lottierurl("https://lottie.host/0b101377-5cc6-4739-b62b-deb72cb8ff63/TM9SaYTU7O.json")
